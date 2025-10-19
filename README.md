@@ -8,7 +8,7 @@ An interactive **Power BI dashboard** built to analyze employee attrition, workf
 
 ## 🖼️ Dashboard Preview
 
-![Dashboard Preview](./hr-dashboard.png)
+![Dashboard Preview](./hr%20dashboard.png)
 
 ---
 
